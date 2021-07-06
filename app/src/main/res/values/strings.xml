@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="start">Start</string>
+    <string name="_2_players">2 Players</string>
+    <string name="logo">Logo</string>
+    <string name="imageview16">imageView16</string>
+    <string name="imageview1">imageView1</string>
+    <string name="imageview2">imageView2</string>
+    <string name="imageview3">imageView3</string>
+    <string name="imageview4">imageView4</string>
+    <string name="imageview5">imageView5</string>
+    <string name="imageview6">imageView6</string>
+    <string name="imageview7">imageView7</string>
+    <string name="imageview8">imageView8</string>
+    <string name="imageview9">imageView9</string>
+</resources>
